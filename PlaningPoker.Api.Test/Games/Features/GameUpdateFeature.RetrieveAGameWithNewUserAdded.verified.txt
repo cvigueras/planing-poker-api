@@ -1,0 +1,76 @@
+﻿{
+  "id": "Guid_1",
+  "createdBy": "Carlos",
+  "title": "New game",
+  "description": "New game to vote release1",
+  "roundTime": 60,
+  "expiration": 60,
+  "users": [
+    {
+      "name": "Carlos",
+      "gameId": "Guid_1",
+      "admin": true,
+      "value": ""
+    },
+    {
+      "name": "Pedro",
+      "gameId": "Guid_1",
+      "admin": false,
+      "value": ""
+    }
+  ],
+  "cards": [
+    {
+      "value": "?",
+      "id": 1
+    },
+    {
+      "value": "coffee",
+      "id": 2
+    },
+    {
+      "value": "0",
+      "id": 3
+    },
+    {
+      "value": "0,5",
+      "id": 4
+    },
+    {
+      "value": "1",
+      "id": 5
+    },
+    {
+      "value": "2",
+      "id": 6
+    },
+    {
+      "value": "3",
+      "id": 7
+    },
+    {
+      "value": "5",
+      "id": 8
+    },
+    {
+      "value": "8",
+      "id": 9
+    },
+    {
+      "value": "13",
+      "id": 10
+    },
+    {
+      "value": "20",
+      "id": 11
+    },
+    {
+      "value": "40",
+      "id": 12
+    },
+    {
+      "value": "100",
+      "id": 13
+    }
+  ]
+}
